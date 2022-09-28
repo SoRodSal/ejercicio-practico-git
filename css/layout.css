@@ -1,0 +1,19 @@
+.columns {
+	display: flex;
+}
+
+.columns.align-end {
+	justify-content: flex-end;
+}
+
+.columns .col-65 {
+	width: 65%;
+}
+
+.columns .col-35 {
+	width: 35%;
+}
+
+.columns .col-33 {
+	width: 33.33%;
+}
