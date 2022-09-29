@@ -9,9 +9,9 @@ p span {
 	overflow:hidden;
 }
 body {
-	background:#f2f2f2;
+	background:#a9d5f1;
 	border:0;
-	font:14px Arial, Helvetica, sans-serif;
+	font:16px Arial, Helvetica, sans-serif;
 	color:#363636;
 	line-height:20px;
 }
@@ -53,7 +53,7 @@ body {
 	text-align: center;
 }
 a {
-	color:#008cdd;
+	color:#006ecf;
 	text-decoration:underline;
 	outline:none;
 }
@@ -75,7 +75,7 @@ h2 {
 h2 span {
 	font-size:20px;
 	line-height:1.2em;
-	color:#008cdd;
+	color:#006ecf;
 	display:block;
 	margin-top:-2px;
 	letter-spacing:0;
@@ -88,10 +88,10 @@ h3 {
 	font-weight:normal;
 }
 h4 {
-	border:1px solid #cccccc;
+	border:2px solid #000;
 	font-size:19px;
 	font-weight:normal;
-	color:#182125;
+	color:#fff;
 	line-height:40px;
 	border-radius:6px;
 	-moz-border-radius:6px;
@@ -102,7 +102,7 @@ h4 {
 h4 span {
 	border:1px solid #fff;
 	display:block;
-	background: #eee;
+	background: #375b79;
 	padding:0 17px;
 	border-radius:6px;
 	-moz-border-radius:6px;
@@ -198,8 +198,8 @@ header {
 	display:inline-block;
 	text-decoration:none;
 	font-size:19px;
-	color:#182125;
-	border:1px solid #c6cacc;
+	color:#fff;
+	border:2px solid #000;
 	line-height:40px;
 	border-radius:6px;
 	-moz-border-radius:6px;
@@ -207,7 +207,7 @@ header {
 	position:relative;
 }
 .button span {
-	background: #eee;
+	background: #375b79;
 	border:1px solid #fff;
 	padding:0 20px;
 	display:block;
@@ -220,10 +220,10 @@ header {
 	color:#fff;
 }
 .button:hover span {
-	background:#b2e1ff;
+	background:#2a8bc9;
 }
 .color1 {
-	color:#008cdd;
+	color:#006ecf;
 }
 .our-contacts {
 	padding: 0 10px 0 0;
@@ -253,7 +253,7 @@ header {
 	margin: 15px 0 0 8px;
 }
 .contact-form .button:hover {
-	background:#008cdd;
+	background:#006ecf;
 }
 .contact-form .textarea_box {
 	min-height:232px;
@@ -339,7 +339,7 @@ Menu related
 	padding:0 52px;
 }
 .footer-menu li a:hover, .menu li a:hover, .footer-menu li a.active, .menu li a.active{
-	color:#008cdd;
+	color:#006ecf;
 }
 .latest-news p span {
 	display: block;
