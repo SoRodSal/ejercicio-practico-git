@@ -215,6 +215,8 @@ header {
 	-moz-border-radius:6px;
 	-webkit-border-radius:6px;
 	position:relative;
+	background-color:#4f8bc1 ;
+	color: #fff;
 }
 .button:hover {
 	color:#fff;
