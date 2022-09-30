@@ -91,18 +91,19 @@ h4 {
 	border:1px solid #cccccc;
 	font-size:19px;
 	font-weight:normal;
-	color:#182125;
+	color:#fff;
 	line-height:40px;
 	border-radius:6px;
 	-moz-border-radius:6px;
 	-webkit-border-radius:6px;
 	position:relative;
 	margin-bottom:20px;
+	background:#4f8bc1;
 }
 h4 span {
 	border:1px solid #fff;
 	display:block;
-	background: #eee;
+	background: #4f8bc1;
 	padding:0 17px;
 	border-radius:6px;
 	-moz-border-radius:6px;
@@ -110,8 +111,10 @@ h4 span {
 	position:relative;
 }
 h4 span.right {
+	color:  #fff;
 	background:none;
 	border:0;
+	background:#4f8bc1;
 }
 p {
 	padding-bottom:20px;
